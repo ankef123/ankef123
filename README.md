@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+I’m a university student studying Information Security.  
+I’m mainly focused on Blue Team, but I also like to build small apps and tools occasionally.😊
 
+<p align="center">
+  <img src="[LINK_TO_GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNuYW9qamlyb3MycmgweGJjMzNzZXp3aXh4MGM3b3Z5MWwycGYzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif)" width="300"/>
+</p>
 <!--
 **ankef123/ankef123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
